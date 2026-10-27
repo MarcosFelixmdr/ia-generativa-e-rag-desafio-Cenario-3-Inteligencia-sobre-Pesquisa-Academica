@@ -2,8 +2,12 @@
 > **Grande Desafio · IA Generativa & RAG**  
 > **Residência TIC em Trilhas · PUC-Rio · Instituto ECOA**  
 > **Cenário 3 · Grupo 5**
+> **Integrantes · Marcos Felix - Irene da Costa - Ellen Ramalho - Emilly Ramalho - Iris Gregório - Thiago Garcia**
 
 ---
+
+# Vídeo de apresentação
+> https://youtu.be/EYvWQuKDWgs
 
 ## 📌 Visão Geral do Projeto
 
@@ -118,4 +122,9 @@ python -m app.cli
 ### 6. Rodar os Testes Automatizados (Offline)
 ```powershell
 python -m unittest discover tests
+```
+
+### 7. Rodar a tela streamlit
+```powershell
+streamlit run streamlit_app.py
 ```
